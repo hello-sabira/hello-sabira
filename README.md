@@ -8,8 +8,8 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on some personal projects.
 - 🌱 I’m currently learning JavaScript, Data Structures & Algorithms.<!-- - 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Java, Python, HTML, CSS.
-- 📫 How to reach me: ...
-<!-- - 😄 Pronouns: She/Her -->
-- ⚡ Fun fact: ...
+- 📫 Connect with me on :point_right:     <a href="https://www.linkedin.com/in/sabira-k-58633420a/" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/linkedin.svg" alt=""  width="18" /></a> <a href="https://codeforces.com/profile/hello_sabira" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/index.png" alt="" border=solid color="black" width="25" /></a> <a href="https://www.beecrowd.com.br/judge/en/profile/574989" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/bee.png" alt="" border=solid color="black" width="30" /></a>
+- :handshake: Pronouns: She/Her 
+- ⚡ Fun fact: I'm left-handed.:writing_hand:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hello-sabira&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
