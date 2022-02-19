@@ -7,7 +7,7 @@ Yeah, right... Sabira, not Sabrina. :upside_down_face:
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on some personal projects.
-- 🌱 I’m currently learning JavaScript, Data Structures & Algorithms.<!-- - 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
+- 🌱 I’m currently learning C# (.NET development), JavaScript, Data Structures & Algorithms.<!-- - 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Java, Python, HTML, CSS.
 - 📫 Connect with me on :point_right:     <a href="https://www.linkedin.com/in/sabira-k-58633420a/" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/linkedin.svg" alt=""  width="18" /></a> <a href="https://codeforces.com/profile/hello_sabira" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/index.png" alt="" border=solid color="black" width="25" /></a> <a href="https://www.beecrowd.com.br/judge/en/profile/574989" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/bee.png" alt="" border=solid color="black" width="30" /></a> <a href="https://t.me/hello_sabira" target="blank"><img align="center" src="https://github.com/hello-sabira/hello-sabira/blob/main/icons/telegram-1.svg" alt="" border=solid color="black" width="18" /></a>
 - :handshake: Pronouns: She/Her 
