@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://github.com/hello-sabira/hello-sabira/blob/main/icons/banner.png)](https://github.com/hello-sabira)-->
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Sabira. 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Sabira. 
 Yeah, right... Sabira, not Sabrina. :upside_down_face:
 
 <!--**hello-sabira/hello-sabira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
